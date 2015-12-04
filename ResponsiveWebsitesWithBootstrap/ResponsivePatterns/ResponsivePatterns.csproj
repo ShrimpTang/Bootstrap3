@@ -73,6 +73,14 @@
   <ItemGroup>
     <Folder Include="03\after\" />
     <Folder Include="03\before\" />
+    <Folder Include="04\after\" />
+    <Folder Include="04\before\" />
+    <Folder Include="05\after\" />
+    <Folder Include="05\before\" />
+    <Folder Include="06\after\" />
+    <Folder Include="06\before\" />
+    <Folder Include="07\after\" />
+    <Folder Include="07\before\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
