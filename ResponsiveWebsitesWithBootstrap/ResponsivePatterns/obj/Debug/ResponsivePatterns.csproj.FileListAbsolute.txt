@@ -1,0 +1,5 @@
+C:\Users\Nora Vasileva\Documents\GitHub\Bootstrap3\ResponsiveWebsitesWithBootstrap\ResponsivePatterns\bin\ResponsivePatterns.dll.config
+C:\Users\Nora Vasileva\Documents\GitHub\Bootstrap3\ResponsiveWebsitesWithBootstrap\ResponsivePatterns\bin\ResponsivePatterns.dll
+C:\Users\Nora Vasileva\Documents\GitHub\Bootstrap3\ResponsiveWebsitesWithBootstrap\ResponsivePatterns\bin\ResponsivePatterns.pdb
+C:\Users\Nora Vasileva\Documents\GitHub\Bootstrap3\ResponsiveWebsitesWithBootstrap\ResponsivePatterns\obj\Debug\ResponsivePatterns.dll
+C:\Users\Nora Vasileva\Documents\GitHub\Bootstrap3\ResponsiveWebsitesWithBootstrap\ResponsivePatterns\obj\Debug\ResponsivePatterns.pdb
