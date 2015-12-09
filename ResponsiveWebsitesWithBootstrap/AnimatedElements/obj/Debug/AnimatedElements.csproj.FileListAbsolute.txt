@@ -1,0 +1,6 @@
+C:\Users\Nora Vasileva\Documents\GitHub\Bootstrap3\ResponsiveWebsitesWithBootstrap\AnimatedElements\bin\AnimatedElements.dll.config
+C:\Users\Nora Vasileva\Documents\GitHub\Bootstrap3\ResponsiveWebsitesWithBootstrap\AnimatedElements\bin\AnimatedElements.dll
+C:\Users\Nora Vasileva\Documents\GitHub\Bootstrap3\ResponsiveWebsitesWithBootstrap\AnimatedElements\bin\AnimatedElements.pdb
+C:\Users\Nora Vasileva\Documents\GitHub\Bootstrap3\ResponsiveWebsitesWithBootstrap\AnimatedElements\obj\Debug\AnimatedElements.csprojResolveAssemblyReference.cache
+C:\Users\Nora Vasileva\Documents\GitHub\Bootstrap3\ResponsiveWebsitesWithBootstrap\AnimatedElements\obj\Debug\AnimatedElements.dll
+C:\Users\Nora Vasileva\Documents\GitHub\Bootstrap3\ResponsiveWebsitesWithBootstrap\AnimatedElements\obj\Debug\AnimatedElements.pdb

@@ -5,6 +5,14 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResponsivePatterns", "ResponsivePatterns\ResponsivePatterns.csproj", "{F123FB15-0C78-41BC-8159-71921EE84107}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResponsiveNav", "ResponsiveNav\ResponsiveNav.csproj", "{422B38E9-9DD1-494A-920F-BE9A2CD748EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImagesAndVideo", "ImagesAndVideo\ImagesAndVideo.csproj", "{6B37562A-22F4-45D1-99C7-B438DCFC16FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrollingEffects", "ScrollingEffects\ScrollingEffects.csproj", "{2EC1D122-5A23-4FBB-98D7-271416458ED7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimatedElements", "AnimatedElements\AnimatedElements.csproj", "{63EF5128-92A8-42AA-9658-553498BD642A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +23,22 @@ Global
 		{F123FB15-0C78-41BC-8159-71921EE84107}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F123FB15-0C78-41BC-8159-71921EE84107}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F123FB15-0C78-41BC-8159-71921EE84107}.Release|Any CPU.Build.0 = Release|Any CPU
+		{422B38E9-9DD1-494A-920F-BE9A2CD748EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{422B38E9-9DD1-494A-920F-BE9A2CD748EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{422B38E9-9DD1-494A-920F-BE9A2CD748EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{422B38E9-9DD1-494A-920F-BE9A2CD748EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B37562A-22F4-45D1-99C7-B438DCFC16FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B37562A-22F4-45D1-99C7-B438DCFC16FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B37562A-22F4-45D1-99C7-B438DCFC16FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B37562A-22F4-45D1-99C7-B438DCFC16FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EC1D122-5A23-4FBB-98D7-271416458ED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EC1D122-5A23-4FBB-98D7-271416458ED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EC1D122-5A23-4FBB-98D7-271416458ED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EC1D122-5A23-4FBB-98D7-271416458ED7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63EF5128-92A8-42AA-9658-553498BD642A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63EF5128-92A8-42AA-9658-553498BD642A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63EF5128-92A8-42AA-9658-553498BD642A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63EF5128-92A8-42AA-9658-553498BD642A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

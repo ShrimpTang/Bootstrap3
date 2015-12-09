@@ -1,0 +1,6 @@
+C:\Users\Nora Vasileva\Documents\GitHub\Bootstrap3\ResponsiveWebsitesWithBootstrap\ScrollingEffects\bin\ScrollingEffects.dll.config
+C:\Users\Nora Vasileva\Documents\GitHub\Bootstrap3\ResponsiveWebsitesWithBootstrap\ScrollingEffects\bin\ScrollingEffects.dll
+C:\Users\Nora Vasileva\Documents\GitHub\Bootstrap3\ResponsiveWebsitesWithBootstrap\ScrollingEffects\bin\ScrollingEffects.pdb
+C:\Users\Nora Vasileva\Documents\GitHub\Bootstrap3\ResponsiveWebsitesWithBootstrap\ScrollingEffects\obj\Debug\ScrollingEffects.csprojResolveAssemblyReference.cache
+C:\Users\Nora Vasileva\Documents\GitHub\Bootstrap3\ResponsiveWebsitesWithBootstrap\ScrollingEffects\obj\Debug\ScrollingEffects.dll
+C:\Users\Nora Vasileva\Documents\GitHub\Bootstrap3\ResponsiveWebsitesWithBootstrap\ScrollingEffects\obj\Debug\ScrollingEffects.pdb

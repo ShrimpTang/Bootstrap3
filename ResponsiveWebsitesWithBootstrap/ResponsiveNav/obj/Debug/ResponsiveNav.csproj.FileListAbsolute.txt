@@ -1,0 +1,6 @@
+C:\Users\Nora Vasileva\Documents\GitHub\Bootstrap3\ResponsiveWebsitesWithBootstrap\ResponsiveNav\bin\ResponsiveNav.dll.config
+C:\Users\Nora Vasileva\Documents\GitHub\Bootstrap3\ResponsiveWebsitesWithBootstrap\ResponsiveNav\bin\ResponsiveNav.dll
+C:\Users\Nora Vasileva\Documents\GitHub\Bootstrap3\ResponsiveWebsitesWithBootstrap\ResponsiveNav\bin\ResponsiveNav.pdb
+C:\Users\Nora Vasileva\Documents\GitHub\Bootstrap3\ResponsiveWebsitesWithBootstrap\ResponsiveNav\obj\Debug\ResponsiveNav.csprojResolveAssemblyReference.cache
+C:\Users\Nora Vasileva\Documents\GitHub\Bootstrap3\ResponsiveWebsitesWithBootstrap\ResponsiveNav\obj\Debug\ResponsiveNav.dll
+C:\Users\Nora Vasileva\Documents\GitHub\Bootstrap3\ResponsiveWebsitesWithBootstrap\ResponsiveNav\obj\Debug\ResponsiveNav.pdb
